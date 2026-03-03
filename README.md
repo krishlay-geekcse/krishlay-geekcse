@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **gsap**
 
+- Portfolio  - https://krishlaysingh.netlify.app/
+
 - 📫 How to reach me **krishlaysingh98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
